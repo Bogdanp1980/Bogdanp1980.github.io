@@ -1,0 +1,75 @@
+* { margin: 0; padding: 0; }
+body { background: #eee; }
+/*
+.block { margin: auto; width: 1000px; height: 200px; background: rgba(100,100,100, .7); position: relative;  }
+
+.block2 { margin: auto;  width: 700px; height: 100px; position: absolute; top: 20px; left: 0; right: 0; background: #f00; z-index: 9999; }
+.block3 { margin: auto;  width: 700px; height: 2000px; position: absolute; top: 20px; left: 0; right: 0; background: green;  }
+*/
+/*
+.container 
+{
+  margin: 0 auto; width: 1000px; height: 500px; background: #ccc;
+}
+
+.header 
+{
+  margin: 0 auto; width: inherit; height: 80px; background: #aaa; position: relative; text-align: center;
+}
+
+.header h2
+{
+  font-family: sans-serif; font-size: 18pt; font-weight: normal; color: #333;
+  position: absolute; left: 65px; top: 10px;
+}
+
+.header h3
+{
+  font-family: sans-serif; font-size: 14pt; font-weight: normal; color: #333;
+  position: absolute; right: 810px; bottom: 15px;
+} 
+
+.header h3:before
+{
+  content: " ";
+  position: absolute; left: -25px; top: 0px;
+  width: 20px; height: 20px;
+  background: url(../img/phone.png)no-repeat;
+  background-size: contain;
+}
+
+.header a
+{
+  font-family: sans-serif; font-size: 11pt; text-decoration: none; color: #333;
+  position: relative; top: 30px; margin: 15px; left: 130px;
+}
+
+.header a:hover
+{
+  text-decoration: underline;
+}
+*/
+
+  #htmls{
+
+  }
+ #header{
+    background: #aaa; height: 54px;  width: 1038px;
+  }
+.title{
+  font-style: normal; font-variant: normal; font-weight: normal; font-stretch: normal;
+   font-size: 30px; line-height: normal; font-family: Verdana; color: white; width: 100%; float:left;
+}
+.contacts{
+ width: 30%; float:left;
+}
+#header ul{
+float: right; text-align: right; list-style: none; display: inline-block; 
+}
+#header li{
+ padding: 0 20px; position: relative; bottom: 18px;
+}
+
+#header a{
+text-decoration: none;
+}
